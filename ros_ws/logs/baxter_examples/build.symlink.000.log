@@ -1,0 +1,11 @@
+Symlinking /home/anthony/ros_ws/devel/lib/pkgconfig/baxter_examples.pc
+Symlinking /home/anthony/ros_ws/devel/lib/python3/dist-packages/baxter_examples/__init__.py
+Symlinking /home/anthony/ros_ws/devel/lib/python3/dist-packages/baxter_examples/cfg/__init__.py
+Symlinking /home/anthony/ros_ws/devel/lib/python3/dist-packages/baxter_examples/cfg/JointSpringsExampleConfig.py
+Symlinking /home/anthony/ros_ws/devel/lib/python3/dist-packages/baxter_external_devices/__init__.py
+Symlinking /home/anthony/ros_ws/devel/share/baxter_examples/cmake/baxter_examplesConfig.cmake
+Symlinking /home/anthony/ros_ws/devel/share/baxter_examples/cmake/baxter_examplesConfig-version.cmake
+Symlinking /home/anthony/ros_ws/devel/share/baxter_examples/docs/JointSpringsExampleConfig.wikidoc
+Symlinking /home/anthony/ros_ws/devel/share/baxter_examples/docs/JointSpringsExampleConfig.dox
+Symlinking /home/anthony/ros_ws/devel/share/baxter_examples/docs/JointSpringsExampleConfig-usage.dox
+Symlinking /home/anthony/ros_ws/devel/include/baxter_examples/JointSpringsExampleConfig.h

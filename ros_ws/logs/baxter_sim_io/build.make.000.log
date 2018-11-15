@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target baxter_sim_io_automoc[0m
+[  7%] [34m[1mAutomatic moc for target baxter_sim_io[0m
+[  7%] Built target baxter_sim_io_automoc
+[ 15%] [34m[1mGenerating include/baxter_sim_io/moc_qnode.cpp[0m
+[ 23%] [34m[1mGenerating qrc_sim_io.cpp[0m
+[ 30%] [34m[1mGenerating ui_baxter_io.h[0m
+[ 38%] [34m[1mGenerating include/baxter_sim_io/moc_baxter_io.cpp[0m
+[35m[1mScanning dependencies of target baxter_sim_io[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/baxter_sim_io.dir/src/main.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/baxter_sim_io.dir/src/baxter_io.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/baxter_sim_io.dir/src/qnode.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/baxter_sim_io.dir/qrc_sim_io.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/baxter_sim_io.dir/include/baxter_sim_io/moc_baxter_io.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/baxter_sim_io.dir/include/baxter_sim_io/moc_qnode.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/baxter_sim_io.dir/baxter_sim_io_automoc.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/anthony/ros_ws/devel/.private/baxter_sim_io/lib/baxter_sim_io/baxter_sim_io[0m
+[100%] Built target baxter_sim_io

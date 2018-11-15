@@ -1,0 +1,4 @@
+Symlinking /home/anthony/ros_ws/devel/lib/libbaxter_sim_controllers.so
+Symlinking /home/anthony/ros_ws/devel/lib/pkgconfig/baxter_sim_controllers.pc
+Symlinking /home/anthony/ros_ws/devel/share/baxter_sim_controllers/cmake/baxter_sim_controllersConfig-version.cmake
+Symlinking /home/anthony/ros_ws/devel/share/baxter_sim_controllers/cmake/baxter_sim_controllersConfig.cmake

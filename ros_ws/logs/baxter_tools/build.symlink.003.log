@@ -1,0 +1,4 @@
+Linked: (/home/anthony/ros_ws/devel/.private/baxter_tools/lib/pkgconfig/baxter_tools.pc, /home/anthony/ros_ws/devel/lib/pkgconfig/baxter_tools.pc)
+Linked: (/home/anthony/ros_ws/devel/.private/baxter_tools/lib/python3/dist-packages/baxter_tools/__init__.py, /home/anthony/ros_ws/devel/lib/python3/dist-packages/baxter_tools/__init__.py)
+Linked: (/home/anthony/ros_ws/devel/.private/baxter_tools/share/baxter_tools/cmake/baxter_toolsConfig.cmake, /home/anthony/ros_ws/devel/share/baxter_tools/cmake/baxter_toolsConfig.cmake)
+Linked: (/home/anthony/ros_ws/devel/.private/baxter_tools/share/baxter_tools/cmake/baxter_toolsConfig-version.cmake, /home/anthony/ros_ws/devel/share/baxter_tools/cmake/baxter_toolsConfig-version.cmake)
