@@ -1,0 +1,4 @@
+Symlinking /home/anthony/ros_ws/devel/lib/libbaxter_gazebo_ros_control.so
+Symlinking /home/anthony/ros_ws/devel/lib/pkgconfig/baxter_gazebo.pc
+Symlinking /home/anthony/ros_ws/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig.cmake
+Symlinking /home/anthony/ros_ws/devel/share/baxter_gazebo/cmake/baxter_gazeboConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/anthony/ros_ws/devel/lib/pkgconfig/baxter_tools.pc
+Symlinking /home/anthony/ros_ws/devel/lib/python3/dist-packages/baxter_tools/__init__.py
+Symlinking /home/anthony/ros_ws/devel/share/baxter_tools/cmake/baxter_toolsConfig.cmake
+Symlinking /home/anthony/ros_ws/devel/share/baxter_tools/cmake/baxter_toolsConfig-version.cmake

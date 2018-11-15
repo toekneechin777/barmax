@@ -1,0 +1,4 @@
+Symlinking /home/anthony/ros_ws/devel/lib/baxter_sim_hardware/baxter_emulator
+Symlinking /home/anthony/ros_ws/devel/lib/pkgconfig/baxter_sim_hardware.pc
+Symlinking /home/anthony/ros_ws/devel/share/baxter_sim_hardware/cmake/baxter_sim_hardwareConfig.cmake
+Symlinking /home/anthony/ros_ws/devel/share/baxter_sim_hardware/cmake/baxter_sim_hardwareConfig-version.cmake
